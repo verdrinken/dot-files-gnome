@@ -1,0 +1,11 @@
+blur-my-shell@aunetx
+user-theme@gnome-shell-extensions.gcampax.github.com
+day-progress@arcaege.github.io
+weatheroclock@CleoMenezesJr.github.io
+impatience@gfxmonk.net
+quick-settings-tweaks@qwreey
+mediacontrols@cliffniff.github.com
+wiggle@mechtifs
+quick-settings-avatar@d-go
+tweaks-system-menu@extensions.gnome-shell.fifi.org
+Vitals@CoreCoding.com
